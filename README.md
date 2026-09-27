@@ -42,7 +42,7 @@ python number_guessing_game.py
 
 
 # Example
-
+```
 Guess any number between 1 to 100
 Enter your guess: 50
 Too high.!, Try again.
@@ -50,6 +50,7 @@ Enter your guess: 25
 Too low.!, Try again.
 Enter your guess: 37
 Correct.!!, You guessed the number
+```
 
 # Notes 
 
